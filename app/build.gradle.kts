@@ -13,7 +13,7 @@ android {
   defaultConfig {
     applicationId = "com.aistudio.kaiossimulator.xkyz"
     minSdk = 24
-    targetSdk = 36
+    targetSdk = 30
     versionCode = 1
     versionName = "1.0"
 
